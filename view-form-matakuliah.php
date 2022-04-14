@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-
 	<title>Form Input Matakuliah</title>
 <style>
 	.pesan {color: red; font-style: italic;}
